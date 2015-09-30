@@ -1,4 +1,5 @@
 jQuery(document).ready(function() {
+    //alert(window.innerWidth+"  :  "+ window.innerHeight);
     jQuery("img.lazy").lazy(
         {
             appendScroll    : window,
